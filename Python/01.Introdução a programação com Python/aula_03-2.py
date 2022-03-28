@@ -5,5 +5,5 @@ resto_a = a % 2
 resto_b = b % 2
 if resto_a == 0 or not resto_b > 0:
     print('Foi digitado um número par')
-else:    
+else:
     print('Nenhum numero par foi digitado')
