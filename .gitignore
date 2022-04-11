@@ -151,6 +151,7 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+# Arquivos utilizados em alguns cursos
 .vscode
 tempCodeRunnerFile.py
 Python/01.Introdução a programação com Python/teste.txt
