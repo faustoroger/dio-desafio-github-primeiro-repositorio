@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-# TODO: Complete os espaços em branco com uma solução possível para o problema.
 counter = 0
 for _ in range(6):
     number = float(input())
