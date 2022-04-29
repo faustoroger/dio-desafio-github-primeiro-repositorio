@@ -1,0 +1,3 @@
+www2.fab.mil.br/cenipa/
+
+http://sistema.cenipa.aer.mil.br/cenipa/media/opendata/ocorrencia.csv
