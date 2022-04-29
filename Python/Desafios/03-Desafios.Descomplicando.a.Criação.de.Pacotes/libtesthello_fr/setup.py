@@ -7,8 +7,8 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="libtesthello-fr",
-    version="0.0.1",
+    name="libtesthello_fr",
+    version="0.0.2",
     author="fr",
     author_email='testsayhellofr@gmail.com',
     description='Biblioteca que diz Hello',
