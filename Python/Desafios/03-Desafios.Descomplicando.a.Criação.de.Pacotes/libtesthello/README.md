@@ -1,6 +1,6 @@
 # libtesthello
 
-Description. The package libtesthello is used to:
+The package libtesthello is used to:
 - Say Hello
 
 ## Installation
