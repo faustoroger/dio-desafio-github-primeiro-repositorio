@@ -154,6 +154,6 @@ cython_debug/
 # Arquivos utilizados em alguns cursos
 .vscode
 tempCodeRunnerFile.py
-Python/01.Introdução a programação com Python/teste.txt
-Python/01.Introdução a programação com Python/notas.txt
-Python/01.Introdução a programação com Python/teste_exception.txt
+Bootcamp.Cognizant/01.Introdução a programação com Python/teste.txt
+Bootcamp.Cognizant/01.Introdução a programação com Python/notas.txt
+Bootcamp.Cognizant/01.Introdução a programação com Python/teste_exception.txt
