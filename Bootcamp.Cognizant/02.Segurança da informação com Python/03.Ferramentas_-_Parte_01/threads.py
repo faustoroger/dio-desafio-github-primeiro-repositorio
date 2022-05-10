@@ -11,6 +11,6 @@ def carro(velocidade, piloto):
 
 
 t_carro1 = Thread(target=carro, args=[1, 'Bruno'])
-t_carro2 = Thread(target=carro, args=[1, 'Python'])
+t_carro2 = Thread(target=carro, args=[1, 'Bootcamp.Cognizant'])
 
 carro(10)
